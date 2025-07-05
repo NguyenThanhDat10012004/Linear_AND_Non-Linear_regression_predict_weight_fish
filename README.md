@@ -1,1 +1,1 @@
-# Linear_AND_Non-Linear_regression_predict_weight_fish
+# Chú ý sự khác nhau giữa linear-regression, non-linear-regression: Khi sử dụng mô hình hồi quy phải xem xét sự tuyến tính của data hiện tại như nào, nếu có xu hướng là đường thẳng thì dùng linear regression, còn nếu có xu hướng là dạng đường cong thì sẽ dùng non-linear, phương pháp để biết nên sử dụng bậc mấy đó là k-fold-cross-validation, và chú ý đối với hồi quy dùng r2score để đo độ chính xác gần 1 thì càng tốt, nhưng phải chú ý overfit.
